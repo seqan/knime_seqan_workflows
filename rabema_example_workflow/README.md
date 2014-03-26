@@ -3,13 +3,15 @@ Rabema Example Workflow
 
 A workflow to measure the sensitivity of a read mapper.
 
-== Description ==
+Description
+-----------
 
 Rabema is a program that supports a new read mapper benchmark methodology. The methodology is based on a strict definition of the read mapping problem and allows the evaluation of arbitrary read mapping programs that create SAM output.
 The paper gives an explanation of the theory behind the benchmark methodology with an example evaluation.
 
 
-== Example Data ==
+Example Data
+------------
 
 INPUT Reference:
   genome.fa - S.cerevisiae reference genome.
@@ -18,7 +20,8 @@ INPUT Reads:
   SRR003673.10k.fastq - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with Illumina Genome Analyzer.
 
 
-== References ==
+References
+----------
 
 Rabema Website:
   http://www.seqan.de/projects/rabema/
