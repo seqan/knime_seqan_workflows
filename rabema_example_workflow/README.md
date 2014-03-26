@@ -19,11 +19,13 @@ Example Data
 
 Extract the two .bz2 files and configure the two *Input File* nodes accordingly:
 
-**INPUT Reference:**
-    genome.fa *- S.cerevisiae reference genome.*
+<dl>
+  <dt>INPUT Reference</dt>
+  <dd>genome.fa - S.cerevisiae reference genome.</dd>
 
-**INPUT Reads:**
-    SRR003673.10k.fastq *- The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.*
+  <dt>INPUT Reads</dt>
+  <dd>SRR003673.10k.fastq - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.</dd>
+</dl>  
 
 
 References
