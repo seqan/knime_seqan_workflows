@@ -6,6 +6,15 @@ KNIME example workflows for NGS data analysis with SeqAn apps. Here we host and 
 Please read the howto at http://trac.seqan.de/wiki/HowTo/UseSeqAnNodesInKnime first about how to integrate
 SeqAn nodes into KNIME and how to use and share workflows.
 
+Workflows
+---------
+
+### Read Mapping ###
+  [Rabema Example Workflow][rabema_example_workflow] - A workflow to benchmark the sensitivity of read mappers.
+    
+### Variant Calling ###
+  *coming soon*
+
 Contact
 -------
 
