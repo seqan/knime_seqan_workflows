@@ -10,7 +10,7 @@ Workflows
 ---------
 
 ### Read Mapping ###
-  [Rabema Example Workflow][rabema_example_workflow] - A workflow to benchmark the sensitivity of read mappers.
+  [Rabema Example Workflow](rabema_example_workflow) - A workflow to benchmark the sensitivity of read mappers.
     
 ### Variant Calling ###
   *coming soon*
