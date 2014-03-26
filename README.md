@@ -9,4 +9,4 @@ SeqAn nodes into KNIME and how to use and share workflows.
 Contact
 -------
 
-If you have questions feel free to contact the SeqAn mailing list at http://lists.fu-berlin.de/listinfo/seqan-dev
+If you have questions feel free to contact the SeqAn mailing list at seqan-dev@lists.fu-berlin.de
