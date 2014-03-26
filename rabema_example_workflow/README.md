@@ -9,6 +9,8 @@ Description
 Rabema is a program that supports a new read mapper benchmark methodology. The methodology is based on a strict definition of the read mapping problem and allows the evaluation of arbitrary read mapping programs that create SAM output.
 The paper gives an explanation of the theory behind the benchmark methodology with an example evaluation.
 
+![alt tag](rabema_example_screenshot.png)
+
 
 Example Data
 ------------
