@@ -1,7 +1,7 @@
 Variant Calling BWA Workflow
 ============================
 
-A variant calling workflow based on the BWA read mapper and the mpileup variant caller
+A variant calling workflow based on the BWA read mapper and the mpileup variant caller.
 
 Description
 -----------
