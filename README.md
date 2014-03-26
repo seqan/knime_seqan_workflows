@@ -13,7 +13,7 @@ Workflows
   [Rabema Example Workflow](rabema_example_workflow) - A workflow to benchmark the sensitivity of read mappers.
     
 ### Variant Calling ###
-  *coming soon*
+  [Variant Calling BWA Workflow](variant_calling_bwa_workflow) - A variant calling workflow based on the BWA read mapper and the mpileup variant caller
 
 Contact
 -------
