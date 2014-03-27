@@ -6,7 +6,9 @@ A variant calling workflow based on the BWA read mapper and the mpileup variant 
 Description
 -----------
 
-coming soon
+This workflow detects small variations like SNPs or indels that occur in a paired-end sequenced sample genome in comparison to a reference genome. The input is a reference genome given in Fasta format and two read files of *left* and *right* ends (can be interchanged) of the sequenced paired-end reads in Fasta or Fastq format. Output is a text file in VCF format whose lines contain the detected variants.
+
+The workflow consists of a read mapping step where BWA is used to index the genome and map reads onto it. The aligned reads are then converted from SAM to BAM format and sorted by genome position. In the second step the read alignments are transposed into the pileup format which for each genomic position stores the read bases that are aligned to it. From the set of bases deviating from the reference genome, mpileup calls variants and outputs them in BCF format which is finally converter in the human-readable VCF format.
 
 ![alt tag](variant_calling_bwa_screenshot.png)
 
