@@ -7,7 +7,7 @@ Description
 -----------
 
 
-![alt tag](rabema_example_screenshot.png)
+![alt tag](metagenomics_gasic_workflow.png)
 
 
 Example Data
