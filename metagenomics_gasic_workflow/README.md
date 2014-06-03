@@ -32,8 +32,20 @@ Extract the bee_example.zip file and configure the two *Input File* nodes accord
   Deformed Wing Virus (DWV), Varroa destructor virus-1 (VDV1) and recombinants of both.</dd>
 </dl>  
 
+Output
+------
+
+The result of the GASiC workflow is a table that for each genome gives the number of mapped reads (observed read counts), corrected reads, estimated error, p-value and normalized abundance.
+
+Additionally an R-plot shows the observed and corrected reads counts. The example above would give the following plot:
+
+![alt tag](bee_example.png)
+
 References
 ----------
 
+**GASiC Website:**
+  http://sourceforge.net/projects/gasic/
+  
 **Original Paper:**
   Martin S. Lindner and Bernhard Y. Renard. *Metagenomic abundance estimation and diagnostic testing on species level*, Nucl. Acids Res. 2013, 41(1): e10, [doi:10.1093/nar/gks803](http://nar.oxfordjournals.org/content/41/1/e10)
