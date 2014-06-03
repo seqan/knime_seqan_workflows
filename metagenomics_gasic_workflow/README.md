@@ -14,7 +14,15 @@ One goal of sequencing based metagenomic analysis is the quantitative taxonomic 
 Example Data
 ------------
 
+Extract the bee_example.zip file and configure the two *Input File* nodes accordingly:
 
+<dl>
+  <dt>Reads</dt>
+  <dd>SRR059298_72_subset.fasta - S.cerevisiae reference genome.</dd>
+
+  <dt>Genomes</dt>
+  <dd>dwv.fasta vdv-1-dwv-5.fasta vdv-1-dwv-9.fasta vdv1.fasta - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.</dd>
+</dl>  
 
 References
 ----------
