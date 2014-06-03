@@ -18,14 +18,18 @@ Extract the bee_example.zip file and configure the two *Input File* nodes accord
 
 <dl>
   <dt>Reads</dt>
-  <dd>SRR059298_72_subset.fasta - First 100k x 72bp reads of [SRR059298](http://sra.dnanexus.com/runs/SRR059298) dataset.
+  <dd><ul>
+  <li>SRR059298_72_subset.fasta</li>
+  </ul>
+  First 100k x 72bp reads of <href="http://sra.dnanexus.com/runs/SRR059298">SRR059298</href> dataset. Whole viral genome sequence from bees infected by Varroa mites from WHRI apiary 2009.</dd>
   <dt>Genomes</dt>
-  <dd><dir>
+  <dd><ul>
   <li>dwv.fasta</li>
   <li>vdv-1-dwv-5.fasta</li>
   <li>vdv-1-dwv-9.fasta</li>
   <li>vdv1.fasta</li>
-  </dir> - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.</dd>
+  </ul>
+  Deformed Wing Virus (DWV), Varroa destructor virus-1 (VDV1) and recombinants of both.</dd>
 </dl>  
 
 References
