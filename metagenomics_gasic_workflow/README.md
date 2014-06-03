@@ -1,7 +1,7 @@
 GASiC Metagenomics Workflow
 ===========================
 
-**G**enome **A**bundance **Si**milarity **C**orrection workflow.
+<b>G</b>enome <b>A</b>bundance <b>Si</b>milarity <b>C</b>orrection workflow.
 
 Description
 -----------
@@ -18,14 +18,18 @@ Extract the bee_example.zip file and configure the two *Input File* nodes accord
 
 <dl>
   <dt>Reads</dt>
-  <dd>SRR059298_72_subset.fasta - S.cerevisiae reference genome.</dd>
-
+  <dd>SRR059298_72_subset.fasta - First 100k x 72bp reads of [SRR059298](http://sra.dnanexus.com/runs/SRR059298) dataset.
   <dt>Genomes</dt>
-  <dd>dwv.fasta vdv-1-dwv-5.fasta vdv-1-dwv-9.fasta vdv1.fasta - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.</dd>
+  <dd><dir>
+  <li>dwv.fasta</li>
+  <li>vdv-1-dwv-5.fasta</li>
+  <li>vdv-1-dwv-9.fasta</li>
+  <li>vdv1.fasta</li>
+  </dir> - The first 10k reads of length 36bp of a S.cerevisiae sample. Sequenced with the Illumina Genome Analyzer.</dd>
 </dl>  
 
 References
 ----------
 
 **Original Paper:**
-  Martin S. Lindner and Bernhard Y. Renard. *Metagenomic abundance estimation and diagnostic testing on species level*, Nucl. Acids Res. 2013, 41(1): e10, doi:10.1093/nar/gks803
+  Martin S. Lindner and Bernhard Y. Renard. *Metagenomic abundance estimation and diagnostic testing on species level*, Nucl. Acids Res. 2013, 41(1): e10, [doi:10.1093/nar/gks803](http://nar.oxfordjournals.org/content/41/1/e10)
