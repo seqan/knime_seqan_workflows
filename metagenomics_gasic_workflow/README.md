@@ -29,7 +29,7 @@ Extract the bee_example.zip file and configure the two *Input File* nodes accord
   <li>vdv-1-dwv-9.fasta</li>
   <li>vdv1.fasta</li>
   </ul>
-  Deformed Wing Virus (DWV), Varroa destructor virus-1 (VDV1) and recombinants of both.</dd>
+  Deformed wing virus (DWV), Varroa destructor virus-1 (VDV1) and recombinants of both.</dd>
 </dl>  
 
 Output
