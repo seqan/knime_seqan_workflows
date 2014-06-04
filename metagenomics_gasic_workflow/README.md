@@ -14,7 +14,7 @@ Prerequisites
 -------------
 
 - SeqAn NGS ToolBox (see [installation instructions](http://trac.seqan.de/wiki/HowTo/UseSeqAnNodesInKnime#InstallSeqAninKNIME))
-- KNIME R Statistics Integration ('KNIME Desktop Update Site' --> 'KNIME & Extensions')
+- KNIME R Statistics Integration (*KNIME Desktop Update Site* --> *KNIME & Extensions*)
 - A working R installation
 
 Example Data
