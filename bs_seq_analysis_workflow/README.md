@@ -43,5 +43,4 @@ todo
 References
 ----------
 
-**Thesis:**
-  Sabrina Krakau. *Developing a BS-Seq Analysis Workflow for Genomic Variation and Methylation Level Calling*, [MSc Thesis](http://www.mi.fu-berlin.de/en/inf/groups/abi/theses/master_dipl/krakau/msc_thesis_krakau.pdf)
+Sabrina Krakau. *Developing a BS-Seq Analysis Workflow for Genomic Variation and Methylation Level Calling*, [MSc Thesis](http://www.mi.fu-berlin.de/en/inf/groups/abi/theses/master_dipl/krakau/msc_thesis_krakau.pdf)
