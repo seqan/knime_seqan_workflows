@@ -38,11 +38,11 @@ References
 ----------
 
 **RazerS 3 Website:**
-  http://www.seqan.de/projects/razers
+  http://www.seqan.de/projects/razers/
 
 **RazerS 3 Paper:**
   Weese, D., Holtgrewe M., and Reinert, K. (2012). *RazerS 3: Faster, fully sensitive read mapping.* Bioinformatics, 28(20), 2592–2599.
 
 **SnpStore Website:**
-  http://www.seqan.de/projects/razers
+  http://www.seqan.de/projects/snpstore/
 
