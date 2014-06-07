@@ -9,7 +9,7 @@ Description
 This workflow detects small variations like SNPs or indels of a paired-end sequenced sample genome in comparison to a given reference genome. The input is a reference genome in Fasta format and two read files of *left* and *right* ends (can be interchanged) of the sequenced paired-end reads in Fasta or Fastq format. Output is a text file in VCF format whose lines contain the detected SNPs and a text file containing the detected indels.
 
 The workflow consists of a read mapping step where RazerS 3 is used to directly map reads to the genome and output the alignment in SAM format.
-In the second step the output of RazerS 3 is given to SnpStore which realigns reads at potential indel sites and uses deviations between reads and genome to calls variants and outputs them in the human-readable VCF and GFF formats.
+In the second step the output of RazerS 3 is given to SnpStore which realigns reads at potential indel sites and uses deviations between reads and the genome to call variants which are written in the human-readable VCF and GFF formats.
 
 ![alt tag](variant_calling_snpstore_workflow.png)
 
