@@ -1,5 +1,5 @@
-Variant Calling SnpStore Workflow
-=================================
+Variant Calling with SnpStore
+=============================
 
 A variant calling workflow based on the read mapper RazerS 3 and the variant caller SnpStore.
 
@@ -13,6 +13,9 @@ In the second step the output of RazerS 3 is given to SnpStore which realigns re
 
 ![alt tag](variant_calling_snpstore_workflow.png)
 
+The second workflow adds a prior error correction step that uses Fiona to automatically correct sequencing errors. Note, that the workflow now contains a variable GenomeLength which is required by Fiona and must be set accordingly (1000 in the example).
+
+![alt tag](variant_calling_snpstore_workflow2.png)
 
 Example Data
 ------------
@@ -36,6 +39,9 @@ Configure the three *Input File* nodes accordingly:
 
 References
 ----------
+
+**Fiona Website:**
+  http://www.seqan.de/projects/fiona/
 
 **RazerS 3 Website:**
   http://www.seqan.de/projects/razers/
