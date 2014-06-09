@@ -1,5 +1,5 @@
-Variant Calling BWA Workflow
-============================
+Variant Calling with BWA and mpileup
+====================================
 
 A variant calling workflow based on the BWA read mapper and the SAMtools mpileup variant caller.
 
