@@ -9,9 +9,6 @@ SeqAn nodes into KNIME and how to use or contribute workflows.
 Workflows
 ---------
 
-### Read Mapping ###
-  [Rabema Example Workflow](rabema_example_workflow) - A workflow to benchmark the sensitivity of read mappers.
-    
 ### Variant Calling ###
   [Variant Calling with SnpStore](variant_calling_snpstore_workflow) - Two variant calling workflows based on the read mapper RazerS 3 and the variant caller SnpStore.
   
@@ -23,6 +20,9 @@ Workflows
 ### Metagenomics ###
   [GASiC workflow](metagenomics_gasic_workflow) - Genome Abundance Similarity Correction workflow.
 
+### Benchmarking ###
+  [Rabema Example Workflow](rabema_example_workflow) - A workflow to benchmark the sensitivity of read mappers.
+    
 Contact
 -------
 
