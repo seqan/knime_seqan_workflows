@@ -33,7 +33,7 @@ Configure the three *Input File* nodes accordingly:
   <li>sim_reads_l.fq</li>
   <li>sim_reads_r.fq</li>
   </ul>
-  2 x 1k left and right reads each of length 70bp paired-end reads of a simulated haplotype.</dd>
+  2 x 1k left and right reads each of length 70bp of a simulated haplotype.</dd>
 </dl>  
 
 
