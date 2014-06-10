@@ -23,10 +23,10 @@ Configure the three *Input File* nodes accordingly:
   <dd>NC_008253_1K.fa - First 1kb of the E.coli genome.</dd>
 
   <dt>INPUT Left Reads</dt>
-  <dd>sim_reads_l.fq - Left reads of 10k paired-end reads of a simulated haplotype.</dd>
+  <dd>sim_reads_l.fq - 1k left reads of length 70bp paired-end reads of a simulated haplotype.</dd>
   
   <dt>INPUT Right Reads</dt>
-  <dd>sim_reads_r.fq - Right reads of 10k paired-end reads of a simulated haplotype.</dd>
+  <dd>sim_reads_r.fq - 1k right reads of length 70bp reads of 10k paired-end reads of a simulated haplotype.</dd>
 </dl>  
 
 
