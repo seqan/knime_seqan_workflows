@@ -14,10 +14,14 @@ Workflows
     
 ### Variant Calling ###
   [Variant Calling with SnpStore](variant_calling_snpstore_workflow) - Two variant calling workflows based on the read mapper RazerS 3 and the variant caller SnpStore.
+  
   [Variant Calling with mpileup](variant_calling_bwa_workflow) - A variant calling workflow based on the read mapper BWA and samtools mpileup for variant calling.
 
 ### BS-Seq Analysis ###
   [BS-Seq Analysis with bs-tools](bs_seq_analysis_workflow) - A workflow for BS-Seq data analysis, from bisulfite read mapping to SNP and methylation level calling at single-nucleotide resolution.
+
+### Metagenomics ###
+  [GASiC workflow](metagenomics_gasic_workflow) - Genome Abundance Similarity Correction workflow.
 
 Contact
 -------
