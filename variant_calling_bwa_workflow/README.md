@@ -30,6 +30,13 @@ Configure the three *Input File* nodes accordingly:
 </dl>  
 
 
+Contact
+-------
+
+If you have any further questions or comments please contact:
+ * [David Weese](mailto:david.weese@fu-berlin.de)
+
+
 References
 ----------
 
