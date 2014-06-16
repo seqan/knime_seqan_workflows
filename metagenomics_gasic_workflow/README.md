@@ -48,6 +48,13 @@ Additionally an R-plot shows the observed and corrected reads counts. The exampl
 
 ![alt tag](bee_example.png)
 
+Contact
+-------
+
+If you have any further questions or comments please contact:
+ * [Stephan Aiche](mailto:stephan.aiche@fu-berlin.de)
+ * [Jochen Singer](mailto:jochen.singer@fu-berlin.de)
+
 References
 ----------
 
