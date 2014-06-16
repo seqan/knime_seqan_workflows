@@ -28,6 +28,13 @@ Extract the two .bz2 files and configure the two *Input File* nodes accordingly:
 </dl>  
 
 
+Contact
+-------
+
+If you have any further questions or comments please contact:
+ * [Manuel Holtgrewe](mailto:manuel.holtgrewe@fu-berlin.de)
+
+
 References
 ----------
 
