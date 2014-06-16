@@ -36,6 +36,11 @@ Configure the three *Input File* nodes accordingly:
   2 x 1k left and right reads each of length 70bp of a simulated haplotype.</dd>
 </dl>  
 
+Contact
+-------
+
+If you have any further questions or comments please contact:
+ * [David Weese](mailto:david.weese@fu-berlin.de)
 
 References
 ----------
