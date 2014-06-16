@@ -52,6 +52,13 @@ Output
 
 Output is a VCF file containing the detected SNPs and a BED file containing the detected methylation levels.
 
+Contact
+-------
+
+If you have any further questions or comments please contact:
+ * [Sabrina Krakau](mailto:sabrina.krakau@fu-berlin.de)
+ * [David Weese](mailto:david.weese@fu-berlin.de)
+ 
 References
 ----------
 
