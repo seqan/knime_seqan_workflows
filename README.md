@@ -3,7 +3,7 @@ SeqAn Community Workflows
 
 KNIME example workflows for NGS data analysis with SeqAn apps. Here we host and share community workflows.
 
-Please read the howto at http://seqan.readthedocs.org/en/latest/HowTo/UseSeqAnNodesInKnime.html first about how to integrate
+Please read the howto at http://seqan.readthedocs.io/en/master/Tutorial/Workflows/UseSeqAnNodesInKnime.html first about how to integrate
 SeqAn nodes into KNIME and how to use or contribute workflows.
 
 Workflows
